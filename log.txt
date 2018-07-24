@@ -1,0 +1,2807 @@
+> opening /dev/ttyUSB3
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> cleaned up 2 devs
+> chan switch 3
+> cleaned up 1 devs
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> cleaned up 1 devs
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> cleaned up 1 devs
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> cleaned up 3 devs
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> cleaned up 1 devs
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> cleaned up 2 devs
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> cleaned up 1 devs
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> cleaned up 1 devs
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> cleaned up 1 devs
+> chan switch 2
+> cleaned up 2 devs
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> cleaned up 1 devs
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> cleaned up 1 devs
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> cleaned up 1 devs
+> chan switch 11
+> cleaned up 1 devs
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> cleaned up 1 devs
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> cleaned up 1 devs
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> cleaned up 1 devs
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> cleaned up 1 devs
+> chan switch 2
+> cleaned up 2 devs
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> cleaned up 2 devs
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> cleaned up 1 devs
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> cleaned up 1 devs
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> cleaned up 1 devs
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> cleaned up 1 devs
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> cleaned up 1 devs
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> cleaned up 1 devs
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> cleaned up 1 devs
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> cleaned up 1 devs
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> cleaned up 2 devs
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> cleaned up 1 devs
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> cleaned up 1 devs
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> cleaned up 1 devs
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> cleaned up 1 devs
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> cleaned up 1 devs
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> cleaned up 1 devs
+> chan switch 14
+> chan switch 1
+> cleaned up 2 devs
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> cleaned up 1 devs
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> cleaned up 1 devs
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> cleaned up 1 devs
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> cleaned up 1 devs
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> cleaned up 2 devs
+> chan switch 3
+> cleaned up 2 devs
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> cleaned up 1 devs
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> cleaned up 1 devs
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> cleaned up 1 devs
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> cleaned up 1 devs
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> cleaned up 1 devs
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> cleaned up 1 devs
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> cleaned up 1 devs
+> chan switch 11
+> cleaned up 1 devs
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> cleaned up 1 devs
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> cleaned up 1 devs
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> cleaned up 1 devs
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> cleaned up 1 devs
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> cleaned up 1 devs
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> cleaned up 1 devs
+> chan switch 2
+> cleaned up 1 devs
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> cleaned up 1 devs
+> chan switch 10
+> cleaned up 2 devs
+> chan switch 11
+> cleaned up 1 devs
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> cleaned up 1 devs
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> cleaned up 1 devs
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> cleaned up 1 devs
+> chan switch 3
+> cleaned up 1 devs
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> cleaned up 1 devs
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> cleaned up 2 devs
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> cleaned up 1 devs
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> cleaned up 1 devs
+> chan switch 2
+> cleaned up 2 devs
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> cleaned up 1 devs
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> cleaned up 1 devs
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> cleaned up 2 devs
+> chan switch 11
+> chan switch 12
+> cleaned up 2 devs
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> cleaned up 1 devs
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> cleaned up 1 devs
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> cleaned up 2 devs
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> cleaned up 1 devs
+> chan switch 11
+> cleaned up 1 devs
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> cleaned up 1 devs
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> cleaned up 1 devs
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> cleaned up 1 devs
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> cleaned up 1 devs
+> chan switch 4
+> cleaned up 1 devs
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> cleaned up 1 devs
+> chan switch 11
+> chan switch 12
+> cleaned up 1 devs
+> chan switch 13
+> cleaned up 1 devs
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> cleaned up 2 devs
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> cleaned up 1 devs
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> cleaned up 2 devs
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> cleaned up 1 devs
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> cleaned up 1 devs
+> chan switch 2
+> cleaned up 1 devs
+> chan switch 3
+> cleaned up 1 devs
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> cleaned up 1 devs
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> cleaned up 1 devs
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> cleaned up 2 devs
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> cleaned up 1 devs
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> cleaned up 1 devs
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> cleaned up 1 devs
+> chan switch 2
+> chan switch 3
+> cleaned up 2 devs
+> chan switch 4
+> chan switch 5
+> cleaned up 1 devs
+> chan switch 6
+> cleaned up 1 devs
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> cleaned up 1 devs
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> cleaned up 2 devs
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> cleaned up 1 devs
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> cleaned up 1 devs
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> cleaned up 1 devs
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> cleaned up 2 devs
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> cleaned up 1 devs
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> cleaned up 1 devs
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> cleaned up 1 devs
+> chan switch 7
+> cleaned up 1 devs
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> cleaned up 1 devs
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> cleaned up 1 devs
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> cleaned up 1 devs
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> cleaned up 1 devs
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> cleaned up 1 devs
+> chan switch 2
+> chan switch 3
+> cleaned up 1 devs
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> cleaned up 1 devs
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> cleaned up 1 devs
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> cleaned up 1 devs
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> cleaned up 1 devs
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> cleaned up 2 devs
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> cleaned up 2 devs
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> cleaned up 1 devs
+> chan switch 7
+> cleaned up 1 devs
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> cleaned up 1 devs
+> chan switch 11
+> cleaned up 1 devs
+> chan switch 12
+> cleaned up 1 devs
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> cleaned up 1 devs
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> cleaned up 1 devs
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> cleaned up 1 devs
+> chan switch 12
+> chan switch 13
+> cleaned up 1 devs
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> cleaned up 2 devs
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> cleaned up 1 devs
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> cleaned up 1 devs
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> cleaned up 1 devs
+> chan switch 4
+> chan switch 5
+> cleaned up 1 devs
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> cleaned up 2 devs
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> cleaned up 1 devs
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> cleaned up 1 devs
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> cleaned up 1 devs
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> cleaned up 1 devs
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> cleaned up 1 devs
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> cleaned up 1 devs
+> chan switch 11
+> chan switch 12
+> cleaned up 1 devs
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> cleaned up 1 devs
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> cleaned up 1 devs
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> cleaned up 1 devs
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> cleaned up 1 devs
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> cleaned up 1 devs
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> cleaned up 1 devs
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> cleaned up 1 devs
+> chan switch 9
+> chan switch 10
+> cleaned up 2 devs
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> cleaned up 2 devs
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> cleaned up 1 devs
+> chan switch 11
+> cleaned up 1 devs
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> cleaned up 1 devs
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> cleaned up 2 devs
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> cleaned up 1 devs
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> cleaned up 1 devs
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> cleaned up 1 devs
+> chan switch 13
+> cleaned up 1 devs
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> cleaned up 1 devs
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> cleaned up 1 devs
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> cleaned up 1 devs
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> cleaned up 1 devs
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> cleaned up 1 devs
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> cleaned up 1 devs
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> cleaned up 1 devs
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> cleaned up 1 devs
+> chan switch 12
+> cleaned up 2 devs
+> chan switch 13
+> cleaned up 1 devs
+> chan switch 14
+> chan switch 1
+> cleaned up 1 devs
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> cleaned up 1 devs
+> chan switch 2
+> cleaned up 1 devs
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> cleaned up 1 devs
+> chan switch 6
+> chan switch 7
+> cleaned up 2 devs
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> cleaned up 1 devs
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> cleaned up 4 devs
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> cleaned up 1 devs
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> cleaned up 1 devs
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> cleaned up 1 devs
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> cleaned up 1 devs
+> chan switch 3
+> cleaned up 3 devs
+> chan switch 4
+> chan switch 5
+> cleaned up 1 devs
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> cleaned up 1 devs
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> cleaned up 2 devs
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> cleaned up 1 devs
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> cleaned up 1 devs
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> cleaned up 1 devs
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> cleaned up 1 devs
+> chan switch 13
+> cleaned up 1 devs
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> cleaned up 1 devs
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> cleaned up 2 devs
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> cleaned up 1 devs
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> cleaned up 1 devs
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> cleaned up 1 devs
+> chan switch 3
+> chan switch 4
+> cleaned up 1 devs
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> cleaned up 1 devs
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> cleaned up 1 devs
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> cleaned up 1 devs
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> cleaned up 1 devs
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> cleaned up 2 devs
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> cleaned up 1 devs
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> cleaned up 1 devs
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> cleaned up 1 devs
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> cleaned up 1 devs
+> chan switch 12
+> chan switch 13
+> cleaned up 1 devs
+> chan switch 14
+> chan switch 1
+> cleaned up 1 devs
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> cleaned up 1 devs
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> cleaned up 1 devs
+> chan switch 7
+> cleaned up 1 devs
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> cleaned up 1 devs
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> cleaned up 1 devs
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> cleaned up 1 devs
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> cleaned up 2 devs
+> chan switch 11
+> chan switch 12
+> cleaned up 1 devs
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> cleaned up 1 devs
+> chan switch 3
+> cleaned up 2 devs
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> cleaned up 1 devs
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> cleaned up 1 devs
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> cleaned up 1 devs
+> chan switch 12
+> cleaned up 1 devs
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> cleaned up 2 devs
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> cleaned up 1 devs
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> cleaned up 1 devs
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> cleaned up 1 devs
+> chan switch 10
+> chan switch 11
+> cleaned up 1 devs
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> cleaned up 1 devs
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> cleaned up 1 devs
+> chan switch 7
+> cleaned up 1 devs
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> cleaned up 1 devs
+> chan switch 11
+> cleaned up 2 devs
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> cleaned up 1 devs
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> cleaned up 1 devs
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> cleaned up 2 devs
+> chan switch 12
+> cleaned up 1 devs
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> cleaned up 3 devs
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> cleaned up 1 devs
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> cleaned up 1 devs
+> chan switch 9
+> chan switch 10
+> cleaned up 1 devs
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> cleaned up 2 devs
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> cleaned up 2 devs
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> cleaned up 1 devs
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> cleaned up 1 devs
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> cleaned up 1 devs
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> cleaned up 1 devs
+> chan switch 14
+> cleaned up 1 devs
+> chan switch 1
+> chan switch 2
+> cleaned up 1 devs
+> chan switch 3
+> cleaned up 1 devs
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> cleaned up 1 devs
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> cleaned up 1 devs
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> cleaned up 1 devs
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> deauth attack detected! 9 deauth packets!
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> cleaned up 2 devs
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> cleaned up 1 devs
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> cleaned up 1 devs
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> cleaned up 1 devs
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> cleaned up 1 devs
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> cleaned up 1 devs
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> cleaned up 2 devs
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> cleaned up 2 devs
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> cleaned up 1 devs
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> cleaned up 1 devs
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> cleaned up 1 devs
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> cleaned up 1 devs
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> cleaned up 1 devs
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> cleaned up 1 devs
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> cleaned up 2 devs
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> cleaned up 4 devs
+> chan switch 3
+> cleaned up 1 devs
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> cleaned up 1 devs
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> cleaned up 1 devs
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> cleaned up 1 devs
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> cleaned up 1 devs
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> cleaned up 1 devs
+> chan switch 4
+> chan switch 5
+> cleaned up 1 devs
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> cleaned up 2 devs
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> cleaned up 1 devs
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> cleaned up 1 devs
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> cleaned up 2 devs
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> cleaned up 1 devs
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> cleaned up 1 devs
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> cleaned up 1 devs
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> cleaned up 1 devs
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> cleaned up 1 devs
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> cleaned up 1 devs
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> cleaned up 1 devs
+> chan switch 14
+> chan switch 1
+> cleaned up 3 devs
+> chan switch 2
+> chan switch 3
+> cleaned up 1 devs
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> cleaned up 1 devs
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> cleaned up 1 devs
+> chan switch 4
+> cleaned up 1 devs
+> chan switch 5
+> chan switch 6
+> cleaned up 2 devs
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> cleaned up 1 devs
+> chan switch 12
+> cleaned up 1 devs
+> chan switch 13
+> cleaned up 1 devs
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> cleaned up 1 devs
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> cleaned up 1 devs
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> cleaned up 2 devs
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> cleaned up 3 devs
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> cleaned up 1 devs
+> chan switch 3
+> chan switch 4
+> cleaned up 1 devs
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> cleaned up 2 devs
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> cleaned up 1 devs
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> cleaned up 2 devs
+> chan switch 2
+> cleaned up 2 devs
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> cleaned up 1 devs
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> cleaned up 1 devs
+> chan switch 11
+> cleaned up 1 devs
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> cleaned up 3 devs
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> cleaned up 1 devs
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> cleaned up 1 devs
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> cleaned up 1 devs
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> cleaned up 1 devs
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> cleaned up 1 devs
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> cleaned up 1 devs
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> cleaned up 1 devs
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> cleaned up 1 devs
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> chan switch 7
+> chan switch 8
+> chan switch 9
+> chan switch 10
+> chan switch 11
+> chan switch 12
+> chan switch 13
+> chan switch 14
+> chan switch 1
+> cleaned up 1 devs
+> chan switch 2
+> chan switch 3
+> chan switch 4
+> chan switch 5
+> chan switch 6
+> cleaned up 1 devs
+> chan switch 7
